@@ -1,0 +1,3 @@
+[submodule "frontfusion-admin"]
+	path = frontfusion-admin
+	url = https://github.com/loyal-ki/frontfusion-admin
